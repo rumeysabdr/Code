@@ -1,0 +1,13 @@
+
+2024-12-15 19:31:51.554 | INFO     | logger:log_info:9 - Log dosyası başlatıldı.
+2024-12-15 19:31:51.555 | INFO     | logger:log_info:9 - Program çalışmaya başladı.
+2024-12-15 19:31:51.555 | INFO     | logger:log_info:9 - Görüntü alınıyor.
+2024-12-15 19:31:51.555 | INFO     | logger:log_info:9 - Configden renkler alındı.
+2024-12-15 19:31:55.203 | INFO     | logger:log_info:9 - Çıkış yapıldı
+2024-12-15 19:31:55.577 | INFO     | logger:log_info:9 - Program kapatildi.
+2024-12-15 19:38:36.005 | INFO     | logger:log_info:9 - Log dosyası başlatıldı.
+2024-12-15 19:38:36.006 | INFO     | logger:log_info:9 - Program çalışmaya başladı.
+2024-12-15 19:38:36.006 | INFO     | logger:log_info:9 - Görüntü alınıyor.
+2024-12-15 19:38:36.006 | INFO     | logger:log_info:9 - Configden renkler alındı.
+2024-12-15 19:38:45.874 | INFO     | logger:log_info:9 - Çıkış yapıldı
+2024-12-15 19:38:46.200 | INFO     | logger:log_info:9 - Program kapatildi.

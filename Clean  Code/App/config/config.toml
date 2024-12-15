@@ -1,0 +1,11 @@
+[colors]
+red_min=[160,100,100]
+red_max=[180,255,255]
+green_min=[45,50,30]
+green_max=[85,255,255]
+yellow_min=[20,100,100]
+yellow_max=[30,255,255]
+
+[logging]
+log_level="INFO"
+log_file="app.log"
